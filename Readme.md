@@ -2,7 +2,7 @@
 * https://help.webex.com/en-us/9vstcdb/Webex-for-Linux
 * https://www.webex.com/downloads.html
 
-## If you are looking for a CLI tool to access Webex Teams please use https://github.com/tejzpr/webex-teams-cli
+## If you are looking for a CLI tool to access Webex Teams please consider using https://github.com/tejzpr/webex-teams-cli
 
 ---------------------------
 ## Webex Teams Client for Linux, built with Electron & Nativefier
