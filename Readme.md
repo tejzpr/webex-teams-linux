@@ -1,3 +1,8 @@
+## Cisco has released Webex for Linux. That would be the recommended way to access Webex (Webex Teams) on linux from now on. This repository will not be maintained anymore. 
+* https://help.webex.com/en-us/9vstcdb/Webex-for-Linux
+* https://www.webex.com/downloads.html
+
+---------------------------
 ## Webex Teams Client for Linux, built with Electron & Nativefier
 
 ## Create a shortcut for Desktop
